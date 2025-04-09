@@ -22,6 +22,7 @@ Il combine des outils de data engineering (ETL, PostgreSQL, Docker, CI/CD) et de
 - Deux pages principales :
   - Vue générale (chiffre d’affaires, panier moyen, etc.)
   - Analyse client (par genre, segment, ville, etc.)
+  - Analyse produits (type de produits etc.)
 
 ### ⚙️ CI/CD
 - GitHub Actions exécute automatiquement le pipeline à chaque `push` ou `pull request`
