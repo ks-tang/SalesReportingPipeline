@@ -29,3 +29,15 @@ Il combine des outils de data engineering (ETL, PostgreSQL, Docker, CI/CD) et de
 - Pipeline Dockerisé et testé dans un environnement PostgreSQL temporaire
 
 ---
+
+## Galerie
+
+Voici un aperçu des visualisations Power BI :
+
+<p align="center">
+  <img src="images/powerbi_main.png" alt="Image Main" width="500">
+</p>
+
+<p align="center">
+  <img src="images/powerbi_client.png" alt="Image Client" width="500">
+</p>
