@@ -1,6 +1,7 @@
 # 🛒 Sales Reporting Pipeline
 
 Ce projet met en place une pipeline de données complète pour l’analyse des ventes d’un supermarché à partir d’un dataset public (disponible ici : https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
+
 Il combine des outils de data engineering (ETL, PostgreSQL, Docker, CI/CD) et de visualisation (Power BI).
 
 ---
