@@ -41,3 +41,5 @@ Voici un aperçu des visualisations Power BI :
 <p align="center">
   <img src="images/powerbi_client.png" alt="Image Client" width="500">
 </p>
+
+---
